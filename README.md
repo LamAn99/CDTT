@@ -8,8 +8,3 @@ This is an [Expo](https://expo.dev/) project created with [`create-expo-app`](ht
 
 ```bash
 npm install
-
-### 2. Install dependencies
-
-```bash
-npm install
